@@ -1,5 +1,5 @@
 {
-    "name": "farukh/geo-locator",
+    "name": "farran/geo-locator",
     "type": "library",
     "description": "Detect geo location by IP address.",
     "authors": [
